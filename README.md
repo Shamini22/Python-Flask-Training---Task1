@@ -1,4 +1,4 @@
-# Python-Flask-Training---Task1
+# Python-Flask-Training
 Contains the documentation of the Task 1 of the given training.
 
 The following are the tasks given for the initial day training.
